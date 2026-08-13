@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-detajg.idncuan.xyz/sitemap.xml
